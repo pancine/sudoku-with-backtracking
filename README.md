@@ -36,5 +36,5 @@ Your game must be on this format:
 - endline with ;
 
 ##### source
-image: https://pt.wikipedia.org/wiki/Backtracking
+image: https://pt.wikipedia.org/wiki/Backtracking\
 gif: https://gifdownload.net/backtracking-gif/
