@@ -1,8 +1,8 @@
 # Resolving sudoku with backtracking
 Works in this way: \
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Backtracking-no-backjumping.svg/1024px-Backtracking-no-backjumping.svg.png" alt="drawing" width="150x150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Backtracking-no-backjumping.svg/1024px-Backtracking-no-backjumping.svg.png" alt="image" width="150x150"/>
 
-![alt text](https://gifdownload.net/wp-content/uploads/2019/01/backtracking-gif-.gif)
+<img src="https://gifdownload.net/wp-content/uploads/2019/01/backtracking-gif-.gif" alt="gif" width="150x150"/>
 
 ## Functions
 ```python
