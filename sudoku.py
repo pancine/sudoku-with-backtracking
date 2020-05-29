@@ -123,5 +123,3 @@ def main():
     sudoku = creategame('Sudoku.txt')
     solving(sudoku)
     print(sudoku)
-
-main()
