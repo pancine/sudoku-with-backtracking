@@ -1,6 +1,6 @@
 # Resolving sudoku with backtracking
 Works in this way:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Backtracking-no-backjumping.svg/1024px-Backtracking-no-backjumping.svg.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Backtracking-no-backjumping.svg/1024px-Backtracking-no-backjumping.svg.png =100x100)
 
 ![alt text](https://gifdownload.net/wp-content/uploads/2019/01/backtracking-gif-.gif)
 
